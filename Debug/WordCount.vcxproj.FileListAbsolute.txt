@@ -1,0 +1,2 @@
+D:\VS2019\Project\Ruanjian\WordCount\Debug\WordCount.exe
+D:\VS2019\Project\Ruanjian\WordCount\Debug\WordCount.pdb

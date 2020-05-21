@@ -1,0 +1,5 @@
+﻿  WordCount.cpp
+D:\VS2019\Project\Ruanjian\WordCount\WordCount.cpp(5,34): warning C4083: 应输入“newline”；找到标识符“；”
+D:\VS2019\Project\Ruanjian\WordCount\WordCount.cpp(10,6): warning C4101: “i”: 未引用的局部变量
+D:\VS2019\Project\Ruanjian\WordCount\WordCount.cpp(9,7): warning C4101: “c”: 未引用的局部变量
+  WordCount.vcxproj -> D:\VS2019\Project\Ruanjian\WordCount\Debug\WordCount.exe
